@@ -1,0 +1,16 @@
+:root {
+    --color-sedan: rgb(227, 136, 38);
+    --color-suv: rgb(0, 105, 112);
+    --color-luxury: rgb(0, 66, 65);
+
+    --color-primary: rgba(255, 255, 255, 0.75);
+    --color-secondary: rgb(242, 242, 242);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&display=swap');
+
+.title {
+    font-family: ;
+}

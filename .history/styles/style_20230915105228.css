@@ -1,0 +1,19 @@
+:root {
+    --color-sedan: rgb(227, 136, 38);
+    --color-suv: rgb(0, 105, 112);
+    --color-luxury: rgb(0, 66, 65);
+
+    --color-primary: rgba(255, 255, 255, 0.75);
+    --color-secondary: rgb(242, 242, 242);
+}
+
+
+.title {
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 15px;
+}
+
+p {
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 15px;
+}
